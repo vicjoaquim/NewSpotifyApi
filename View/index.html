@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spotify Clone</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<header>
+  <img src="./Spotify_logo_without_text.svg.png" alt="Logo">
+  <nav>
+    <button id="btnLista" class="active">Lista</button>
+    <button id="btnCadastro">Cadastrar</button>
+  </nav>
+</header>
+
+<main>
+  <div id="telaLista" class="tab active">
+    <h2>Lista de Músicas</h2>
+    <div id="musicaList" class="lista-musicas"></div>
+  </div>
+
+  <div id="telaCadastro" class="tab">
+    <h2>Cadastrar Música</h2>
+    <form id="musicaForm">
+      <input type="text" name="nomeMusica" placeholder="Nome da Música" required>
+      <input type="text" name="artistaMusica" placeholder="Artista" required>
+      <input type="file" name="arquivo" accept=".mp3" required>
+      <input type="file" name="imagem" accept="image/*">
+      <button type="submit">Cadastrar</button>
+    </form>
+    <p id="mensagem"></p>
+  </div>
+</main>
+
+<script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+/* Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+body { background-color: #121212; color: #fff; min-height: 100vh; }
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #1db954;
+  flex-wrap: wrap;
+}
+header img { height: 50px; }
+nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+nav button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.5rem 1.2rem;
+  border-radius: 50px;
+  transition: background 0.2s, transform 0.2s;
+}
+nav button.active, nav button:hover {
+  background-color: rgba(0,0,0,0.2);
+  transform: scale(1.05);
+}
+
+/* Main */
+main { padding: 2rem; }
+
+/* Tabs */
+.tab { display: none; animation: fadeIn 0.3s ease-in; }
+.tab.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+/* Lista de músicas */
+.lista-musicas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.musica-card {
+  background-color: #282828;
+  padding: 1rem;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.musica-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.5);
+}
+.musica-card img {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+}
+.musica-card h3 { font-size: 1.2rem; margin-top: 0.3rem; }
+.musica-card p { font-size: 0.9rem; color: #b3b3b3; margin-bottom: 0.5rem; }
+.musica-card audio { width: 100%; outline: none; }
+
+/* Formulário */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 500px;
+  background-color: #282828;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+form input, form button {
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+}
+form input[type="file"] { padding: 0.5rem; background-color: #3a3a3a; color: #fff; }
+form input[type="text"] { background-color: #3a3a3a; color: #fff; }
+form button {
+  background-color: #1db954;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.2s;
+}
+form button:hover { background-color: #17a84b; transform: scale(1.02); }
+
+/* Mensagem do formulário */
+#mensagem { margin-top: 0.5rem; font-size: 0.95rem; color: #b3b3b3; }
+
+/* Responsividade */
+@media(max-width:800px){
+  header { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  nav { width: 100%; justify-content: space-around; }
+}
+@media(max-width:500px){
+  .lista-musicas { grid-template-columns: 1fr; }
+  form { width: 100%; padding: 1.5rem; }
+}

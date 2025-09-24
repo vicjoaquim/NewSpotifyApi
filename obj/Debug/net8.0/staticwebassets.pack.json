@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\0dac815f-7539-43bd-8a7d-8235a5f4f3df_download (1).jfif",
+      "PackagePath": "staticwebassets\\Uploads\\0dac815f-7539-43bd-8a7d-8235a5f4f3df_download (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\28f81cf5-1664-4285-84c6-d9646c120c08_ssvid.net---Levo-Comigo.mp3",
+      "PackagePath": "staticwebassets\\Uploads\\28f81cf5-1664-4285-84c6-d9646c120c08_ssvid.net---Levo-Comigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\4da00289-c166-44b8-bb99-0025b2a4a932_ssvid.net---Levo-Comigo.mp3",
+      "PackagePath": "staticwebassets\\Uploads\\4da00289-c166-44b8-bb99-0025b2a4a932_ssvid.net---Levo-Comigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\5908d08d-3c06-4bb3-ab3f-e23674d78050_Charlie Brown Jr - Céu Azul (Clipe Oficial) (1).mp3",
+      "PackagePath": "staticwebassets\\Uploads\\5908d08d-3c06-4bb3-ab3f-e23674d78050_Charlie Brown Jr - Céu Azul (Clipe Oficial) (1).mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\5a58c873-25cf-4494-b9e5-dfd996b93b11_download (4).jfif",
+      "PackagePath": "staticwebassets\\Uploads\\5a58c873-25cf-4494-b9e5-dfd996b93b11_download (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\7923da4e-7693-4f55-80b3-51ce6c57a07a_ssvid.net---Levo-Comigo.mp3",
+      "PackagePath": "staticwebassets\\Uploads\\7923da4e-7693-4f55-80b3-51ce6c57a07a_ssvid.net---Levo-Comigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\8305d368-4ec7-45e7-bc47-35a7129efb0f_ssvid.net---Levo-Comigo.mp3",
+      "PackagePath": "staticwebassets\\Uploads\\8305d368-4ec7-45e7-bc47-35a7129efb0f_ssvid.net---Levo-Comigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\915cc369-cb5d-4342-95c5-9d3288e3424c_ssvid.net---Levo-Comigo.mp3",
+      "PackagePath": "staticwebassets\\Uploads\\915cc369-cb5d-4342-95c5-9d3288e3424c_ssvid.net---Levo-Comigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\a7a491ef-0065-4606-8be5-26f830e03edf_WhatsApp Image 2025-02-28 at 12.31.35.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\a7a491ef-0065-4606-8be5-26f830e03edf_WhatsApp Image 2025-02-28 at 12.31.35.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\bada67f9-da42-46f8-a6c8-4ea5aa01bb8b_download (4).jfif",
+      "PackagePath": "staticwebassets\\Uploads\\bada67f9-da42-46f8-a6c8-4ea5aa01bb8b_download (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\efdf771d-8942-4158-89ba-579bb24faf2d_images (1).jfif",
+      "PackagePath": "staticwebassets\\Uploads\\efdf771d-8942-4158-89ba-579bb24faf2d_images (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\426152624\\Documents\\API spotify att\\wwwroot\\Uploads\\fa200f40-79f5-4e42-b641-c8fa68e56965_download (4).jfif",
+      "PackagePath": "staticwebassets\\Uploads\\fa200f40-79f5-4e42-b641-c8fa68e56965_download (4).jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API spotify att.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API spotify att.props",
+      "PackagePath": "build\\API spotify att.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API spotify att.props",
+      "PackagePath": "buildMultiTargeting\\API spotify att.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API spotify att.props",
+      "PackagePath": "buildTransitive\\API spotify att.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
