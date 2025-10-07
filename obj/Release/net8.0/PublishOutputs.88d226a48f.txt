@@ -1,0 +1,65 @@
+C:\Users\426152624\Documents\API spotify att\out\API spotify att.exe
+C:\Users\426152624\Documents\API spotify att\out\appsettings.Development.json
+C:\Users\426152624\Documents\API spotify att\out\appsettings.json
+C:\Users\426152624\Documents\API spotify att\out\API spotify att.dll
+C:\Users\426152624\Documents\API spotify att\out\API spotify att.runtimeconfig.json
+C:\Users\426152624\Documents\API spotify att\out\API spotify att.pdb
+C:\Users\426152624\Documents\API spotify att\out\Azure.Core.dll
+C:\Users\426152624\Documents\API spotify att\out\Azure.Identity.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Data.SqlClient.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Logging.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Options.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Extensions.Primitives.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Identity.Client.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.Logging.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.OpenApi.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.SqlServer.Server.dll
+C:\Users\426152624\Documents\API spotify att\out\Microsoft.Win32.SystemEvents.dll
+C:\Users\426152624\Documents\API spotify att\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\426152624\Documents\API spotify att\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\426152624\Documents\API spotify att\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\426152624\Documents\API spotify att\out\System.ClientModel.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Configuration.ConfigurationManager.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Drawing.Common.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Formats.Asn1.dll
+C:\Users\426152624\Documents\API spotify att\out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\426152624\Documents\API spotify att\out\System.IO.Pipelines.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Memory.Data.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Runtime.Caching.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Security.Permissions.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Text.Encodings.Web.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Text.Json.dll
+C:\Users\426152624\Documents\API spotify att\out\System.Windows.Extensions.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\426152624\Documents\API spotify att\out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\426152624\Documents\API spotify att\out\API spotify att.deps.json
