@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API spotify att")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9837a247d07cb9899d126cc81bd224ca85d4311d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4549dee7370b0772fcebf0ba66c0f033673dc74c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API spotify att")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API spotify att")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
